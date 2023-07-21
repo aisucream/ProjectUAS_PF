@@ -14,13 +14,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
 Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/index', function () {
-    return view('index');
-});
+Auth::routes();
 
 Route::get('/prediksi', function () {
     return view('Prediksi');
@@ -33,7 +33,5 @@ Route::get('/dashboard', function (){
 Route::get('/admin', function (){
     return view ('admin');
 });
-
-Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
