@@ -26,6 +26,14 @@ Route::get('/prediksi', function () {
     return view('Prediksi');
 });
 
+Route::get('/dashboard', function (){
+    return view ('dashboard');
+});
+
+Route::get('/admin', function (){
+    return view ('admin');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
