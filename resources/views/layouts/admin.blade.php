@@ -57,7 +57,7 @@
                         <li class="sidebar-item">
                             <a class="sidebar-link" href="./authentication-login.html" aria-expanded="false">
                                 <span>
-                                    <i class="fa fa-line-chart"></i>
+                                    <i class="ti ti-login"></i>
                                 </span>
                                 <span class="hide-menu">Statistik Peminat</span>
                             </a>
