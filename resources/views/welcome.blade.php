@@ -64,9 +64,8 @@
             <div class="row justify-content-center">
                 <div
                     class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                    <h1>Excellent in Connecting Systems</h1>
-                    <h2>Sistem Informasi (SI) adalah kombinasi dari teknologi informasi dan aktivitas manusia
-                        yang menggunakan teknologi tersebut untuk mendukung operasi dan manajemen.</h2>
+                    <h1>CAREER CAST</h1>
+                    <h2>Temukan pekerjaan yang sesuai dengan klasifikasi anda di website career cast</h2>
                     <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
                 </div>
                 <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
@@ -79,32 +78,6 @@
 
     <main id="main">
 
-        <!-- ======= About Section ======= -->
-        <section id="about" class="about">
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
-                        <img src="assets/img/about.jpg" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-                        <h3>SISTEM INFORMASI PREDICT</h3>
-                        <p class="fst-italic">
-                            Data Analyst
-                            Kemampuan dalam pemrograman, seperti Python atau R,
-                            memungkinkan Anda untuk memanipulasi dan menganalisis data secara efisien.
-                            Anda dapat mengembangkan skrip, mengelola data, dan menerapkan algoritma analitik.
-                        </p>
-                        <a href="{{ url('/About') }}" class="read-more">Predict <i
-                                class="bi bi-long-arrow-right"></i></a>
-                    </div>
-
-
-                </div>
-        </section><!-- End About Section -->
-
-
-
         <!-- ======= Footer ======= -->
         <footer id="footer">
 
@@ -113,27 +86,19 @@
                     <div class="row">
 
                         <div class="col-lg-3 col-md-6 footer-contact">
-                            <h3>Aperture</h3>
+                            <h3>Career Cast Sistem Informasi</h3>
                             <p>
-                                Jl.Mangkurejo <br>
-                                Sedati, Malang<br>
-                                Indonesia <br><br>
-                                <strong>Phone:</strong> 087752439572<br>
-                                <strong>Email:</strong> Apertureart@gmail.com<br>
+                                Jl. Ketintang 156 <br>
+                                Surabaya, Indonesia<br>
+                                <strong>Instagram:</strong> HMSI IT TELKOM SURABAYA <br>
+                                <strong>Email:</strong> careercast@gmail.com<br>
                             </p>
                         </div>
 
-                        <div class="col-lg-2 col-md-6 footer-links">
-                            <h4>Useful Links</h4>
-                            <ul>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            </ul>
-                        </div>
 
                         <div class="col-lg-4 col-md-6 footer-newsletter">
-                            <h4>Join Our Newsletter</h4>
-                            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                            <h4>Kritik dan Saran</h4>
+                            <p>Isi kolom dibawah untuk mengirimkan kritik dan saran untuk membangun website ini</p>
                             <form action="" method="post">
                                 <input type="email" name="email"><input type="submit" value="Subscribe">
                             </form>
@@ -148,14 +113,7 @@
                 <div class="copyright-wrap d-md-flex py-4">
                     <div class="me-md-auto text-center text-md-start">
                         <div class="copyright">
-                            &copy; Copyright <strong><span>Techie</span></strong>. All Rights Reserved
-                        </div>
-                        <div class="credits">
-                            <!-- All the links in the footer should remain intact. -->
-                            <!-- You can delete the links only if you purchased the pro version. -->
-                            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/techie-free-skin-bootstrap-3/ -->
-                            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                            &copy; Copyright <strong><span>Career Cast</span></strong>. All Rights Reserved
                         </div>
                     </div>
                     <div class="social-links text-center text-md-right pt-3 pt-md-0">
